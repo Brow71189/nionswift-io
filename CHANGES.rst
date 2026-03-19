@@ -1,6 +1,10 @@
 Changelog (nionswift-io)
 ========================
 
+15.5.1 (2026-03-19)
+-------------------
+- Python 3.14 support.
+
 15.5.0 (2025-06-20)
 -------------------
 - Improve DM file format export performance, memory use.
